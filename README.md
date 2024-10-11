@@ -33,8 +33,9 @@ Pré-condições:
 - O usuário deve estar na página específica do site de pesquisa.
 Massa de Dados:
 Entrada:
-E-mail: usuarioqa99@gmail.com 
-senha: Usuario99*
+Pasta fixtures/perfilusuario.json
+- E-mail 
+- senha
 
 Passos:
 1. Acessar a página específica do site de pesquisa "Home".
