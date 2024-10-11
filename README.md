@@ -1,2 +1,1 @@
-[Avaliação QA Projeto.pdf](https://github.com/user-attachments/files/17336680/Avaliacao.QA.Projeto.pdf)
-
+[Plano de Testes automatizados para o Site de Pesquisa.pdf](https://github.com/user-attachments/files/17336722/Plano.de.Testes.automatizados.para.o.Site.de.Pesquisa.pdf)
